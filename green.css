@@ -1,0 +1,85 @@
+body
+{
+  background:url(gren/fond.png) ;
+    margin-top: 0;
+}
+header
+{
+font-weight: bold;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+font-size: 20px;
+height: 130px;
+background-color:  rgb(184, 203, 33);
+padding-top: 20px;
+padding-bottom: 20px;
+}
+.link
+{
+color: rgb(72, 72, 73);
+}
+div,
+nav {
+  display: inline-block;
+  vertical-align: middle;
+  
+}
+.li {
+  display: inline;
+    margin-left: 10px;
+  }
+  nav {
+    margin-left: 10px;
+  }
+  div {
+    width: 140px;
+  }
+  section,
+  header {
+    width: 600px;
+    margin: auto;
+  }
+  span {
+    float: left;
+    margin-right: 8px;
+    color: rgb(168, 185, 32);
+  }
+  .imag {
+    width: 300px;
+    float: left;
+    margin-right: 15px;
+    object-fit: cover;
+  }
+  button {
+    background-color: rgb(188, 197, 122);
+    border: none;
+    padding: 12px;
+    color: white;
+    font-weight: bold;
+    margin-left: 500px;
+  }
+  .back {
+    background: white;
+    padding-top: 40px;
+    padding-bottom: 20px;
+  }
+  h2 {
+    margin-top: 0;
+    color: rgb(123, 136, 29);
+  }
+  article {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+  .w3logo {
+    width: 30px;
+    margin-left: 50%;
+    margin-top: 40px;
+  }
+  .text {
+    text-align: center;
+  }
+  
+  .down {
+    width: 90%;
+    margin-left: 180px;
+  }
