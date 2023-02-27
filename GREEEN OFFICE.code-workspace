@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Maquette1/img"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "GREEEN OFFICE"
+	}
+}
